@@ -33,5 +33,5 @@ knitr::write_bib(c(
 ), 'packages.bib')
 
 # anything
-# another anything
+# another
 ```
