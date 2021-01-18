@@ -1,14 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+KR');
+body {
+  font-family: 'Noto Serif KR', Arial, Helvetica, sans-serif;
+  background-color: #fefefe;
+  margin-top: 0;
+}
+
+.title {
+    font-size: 2.5rem;      
+    margin: 2rem;
+}
+
+.author {
+    font-size: 1.5rem;
+    margin: 2rem;
+}
+
+p {
+  line-height: 1.8;
+}
+
+li.dropdown {
+  margin-right: 2rem;
+}
+
+.dropdown-content {
+  width: 20%;
+}
+
+.sidenote-number {
+  color: firebrick; 
+  font-weight: bold;
+}
+
+
 p.caption {
-  color: #777;
-  margin-top: 10px;
+  text-align: center;
 }
-p code {
-  white-space: inherit;
-}
-pre {
-  word-break: normal;
-  word-wrap: normal;
-}
-pre code {
-  white-space: inherit;
+
+img {
+  display: block;
+  margin: auto;
 }
