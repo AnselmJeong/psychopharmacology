@@ -1,3 +1,5 @@
-# Methods
+# Methods {#met}
 
 We describe our methods in this chapter.
+
+## Section 1
