@@ -31,4 +31,6 @@ To compile this example to PDF, you need XeLaTeX. You are recommended to install
 knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
+
+# anything
 ```
